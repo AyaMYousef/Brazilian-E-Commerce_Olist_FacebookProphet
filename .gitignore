@@ -1,0 +1,62 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.keras
+
+# Virtual env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Jupyter & notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs & cache
+*.log
+*.out
+*.err
+*.gz
+*.tmp
+*.cache/
+*.DS_Store
+
+# ----------------------
+# FastAPI / Uvicorn
+# ----------------------
+# compiled files
+*.db
+*.sqlite3
+
+# ----------------------
+# IDEs
+# ----------------------
+.vscode/
+.idea/
+*.swp
+
+# ----------------------
+# Data & artifacts
+# ----------------------
+data/
+datasets/
+artifacts/
+models/
+checkpoints/
+notebook/
+
+# ----------------------
+# OS specific
+# ----------------------
+.DS_Store
+Thumbs.db

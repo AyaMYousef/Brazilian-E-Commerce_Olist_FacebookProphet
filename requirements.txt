@@ -1,0 +1,7 @@
+fastapi==0.116.1
+dotenv==0.9.9
+uvicorn==0.35.0
+joblib==1.5.1
+pandas==2.3.2
+pydantic==2.11.7
+prophet==1.1.7
